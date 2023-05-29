@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: #131516;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#mapa {
+    min-width: 10%;
+    height: 55vh;
+    max-width: 900%;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    margin: 50px auto;
+    font-size: 40px;
+    font-weight: 400;    
+}
+
